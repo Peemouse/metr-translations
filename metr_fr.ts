@@ -142,11 +142,11 @@
     </message>
     <message>
         <source>softdevice and bootloader</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">softdevice et bootloader</translation>
     </message>
     <message>
         <source>firmware</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Firmware</translation>
     </message>
 </context>
 <context>
@@ -1081,7 +1081,7 @@
     </message>
     <message>
         <source>Record started</source>
-        <translation>Enregistrement commencé</translation>
+        <translation>Enregistrement démarré</translation>
     </message>
     <message>
         <source>Record stopped</source>
@@ -1096,23 +1096,23 @@
     <name>RecordSummary</name>
     <message>
         <source>energy</source>
-        <translation>énergie</translation>
+        <translation>Energie</translation>
     </message>
     <message>
         <source>duration</source>
-        <translation>durée</translation>
+        <translation>Durée</translation>
     </message>
     <message>
         <source>top speed</source>
-        <translation>Vitesse maximale</translation>
+        <translation>Vitesse max.</translation>
     </message>
     <message>
         <source>avg speed</source>
-        <translation>vitesse moyenne</translation>
+        <translation>Vitesse moyenne</translation>
     </message>
     <message>
         <source>max current</source>
-        <translation>intensité maximale</translation>
+        <translation>Intensité max.</translation>
     </message>
 </context>
 <context>
@@ -1378,19 +1378,19 @@
     </message>
     <message>
         <source>voltage</source>
-        <translation>tension</translation>
+        <translation>Tension</translation>
     </message>
     <message>
         <source>speed</source>
-        <translation>vitesse</translation>
+        <translation>Vitesse</translation>
     </message>
     <message>
         <source>temperature</source>
-        <translation>température</translation>
+        <translation>Température</translation>
     </message>
     <message>
         <source>motor temperature</source>
-        <translation>température moteur</translation>
+        <translation>Température moteur</translation>
     </message>
     <message>
         <source>Motor</source>
@@ -1398,7 +1398,7 @@
     </message>
     <message>
         <source>motor current</source>
-        <translation>intensité moteur</translation>
+        <translation>Intensité moteur</translation>
     </message>
     <message>
         <source>Location</source>
@@ -1438,11 +1438,11 @@
     </message>
     <message>
         <source>Low voltage</source>
-        <translation>Basse tension</translation>
+        <translation>Tension faible</translation>
     </message>
     <message>
         <source>When the voltage gets lower than this setting, notification will be sent. Leave as 0 to disable low voltage notifications.</source>
-        <translation>Lorsque la tension devient inférieure à ce paramètre, la notification sera envoyée. Laisser à 0 pour désactiver les notifications de basse tension.</translation>
+        <translation>Lorsque la tension devient inférieure à ce paramètre, la notification sera envoyée. Laisser à 0 pour désactiver les notifications de tension faible.</translation>
     </message>
     <message>
         <source>Bluetooth notifications</source>
@@ -1794,7 +1794,7 @@
     </message>
     <message>
         <source>Enabled</source>
-        <translation type="unfinished">Activé</translation>
+        <translation type="unfinished">Activer</translation>
     </message>
     <message>
         <source>Enable or disable all announcements.</source>
